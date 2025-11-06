@@ -1,3 +1,3 @@
-# Locations
+# Pickleball Locations
 
 ## Tennessee
