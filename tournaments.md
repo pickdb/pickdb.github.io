@@ -67,6 +67,11 @@ Link (DUPR 3.8-4.2): <https://pickleballkingdom.podplay.app/community/events/c68
 
 ## Friday, November 14, 2025
 
+#### Crown of the Court
+Location: CityPickle Long Island City  
+9-03 44th Rd, Long Island City, NY 11101  
+Link: <https://citypickle.podplay.app/community/events/7e48db19-6428-48c3-ae53-4c578969fed4>  
+
 #### Moneyball - 4.0-4.8 Men's Doubles - DUPR Recorded
 Location: Pickleball Kingdom Nashville South
 5035 Harding Pl, Nashville, TN 37211  
