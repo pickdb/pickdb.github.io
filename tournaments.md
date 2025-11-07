@@ -50,6 +50,12 @@ Location: Pickleball Kingdom Tigard
 16800 SW 72nd Ave, Tigard, OR 97224  
 Link: <https://pickleballkingdom.podplay.app/community/events/68ab84bf-5d23-45d5-a54e-5f631d644a5d>  
 
+#### Set Partner DUPR Round Robin 3.5 - 4.0
+Location: Pickleball Kingdom Poulsbo  
+21800 Market Pl NW, Poulsbo, WA 98370  
+Link (11am-1pm): <https://pickleballkingdom.podplay.app/community/events/ff01aa6f-ea7d-42b0-a786-0b4ec67e61cf>  
+Link (7pm-9pm): <https://pickleballkingdom.podplay.app/community/events/a525e5af-01de-4030-a876-dd3721842a33>  
+
 ## Thursday, November 13, 2025
 
 #### Men's DUPR Round Robin Ladder
@@ -104,13 +110,33 @@ Location: Pickleball Kingdom Lynnwood
 Link (DUPR 3.0-3.5): <https://pickleballkingdom.podplay.app/community/events/8c488594-e561-4c67-828b-ade40e1e4cd2>  
 Link (DUPR 3.5-4.0): <https://pickleballkingdom.podplay.app/community/events/f96f3cd5-3b27-4114-82f5-e678856fd2b0>  
 
+#### Saturday Scramble: Advanced-Intermediate Rotating Round Robin
+Location: Pickleball Kingdom Poulsbo  
+21800 Market Pl NW, Poulsbo, WA 98370  
+Link: <https://pickleballkingdom.podplay.app/community/events/0fecd995-2c27-4362-bdd9-0953962564be>  
+
+#### Competitive and Social Mixer Individual Tourney 
+Location: Pickleball Kingdom Appleton  
+2411 S Kensington Dr, Appleton, WI 54915  
+Link (Competitive 3.35 and above): <https://pickleballkingdom.podplay.app/community/events/99e9c970-44ae-4a5f-8723-14f9e0c577d8>  
+Link (Social 3.25 and below): <https://pickleballkingdom.podplay.app/community/events/b265bf6c-653d-4830-ac41-e9e7355a5f27>  
+
+
 ## Sunday, November 16, 2025
 
 #### King & Queen Mixed Tournament
 Location: Pickleball Kingdom Tigard
 16800 SW 72nd Ave, Tigard, OR 97224  
 Link (DUPR 3.5-4.0): <https://pickleballkingdom.podplay.app/community/events/f34b8b2e-6e71-48ef-b1e6-08a359a3d805>  
-Link (DUPR 3.0-3.5): <https://pickleballkingdom.podplay.app/community/events/a82bc0af-6f7a-416b-9133-47354224ed0f>
+Link (DUPR 3.0-3.5): <https://pickleballkingdom.podplay.app/community/events/a82bc0af-6f7a-416b-9133-47354224ed0f>  
+
+## Monday, November 17, 2025
+
+#### Set Partner DUPR Round Robin 4.0+
+Location: Pickleball Kingdom Poulsbo  
+21800 Market Pl NW, Poulsbo, WA 98370  
+Link (11am-1pm): <https://pickleballkingdom.podplay.app/community/events/0e7448b8-0f6f-4c09-a330-019a8d108485>  
+Link (7pm-9pm): <https://pickleballkingdom.podplay.app/community/events/a74001f2-2a55-46d6-8c2d-5da461c32371>  
 
 ## Wednesday, November 19, 2025
 
@@ -146,6 +172,11 @@ Location: Pickleball Kingdom Lynnwood
 3115 196th St SW, Lynnwood, WA 98036  
 Link (DUPR 3.0-3.5): <https://pickleballkingdom.podplay.app/community/events/61979ad1-f923-456f-8e3d-ed353e716572>  
 Link (DUPR 3.5-4.0): <https://pickleballkingdom.podplay.app/community/events/dda1eea5-d3de-4861-a7e4-f6884e236272>  
+
+#### Saturday Scramble: Beginner Rotating Round Robin
+Location: Pickleball Kingdom Poulsbo  
+21800 Market Pl NW, Poulsbo, WA 98370  
+Link: <https://pickleballkingdom.podplay.app/community/events/07bb355c-7493-45c5-8c80-d930df4bee35>  
 
 ## Sunday, November 23, 2025
 
@@ -186,6 +217,11 @@ Location: Pickleball Kingdom Lynnwood
 3115 196th St SW, Lynnwood, WA 98036  
 Link (DUPR 3.0-3.5): <https://pickleballkingdom.podplay.app/community/events/97b6b871-2f39-47b8-9552-50963e6a1618>  
 Link (DUPR 3.5-4.0): <https://pickleballkingdom.podplay.app/community/events/4520b272-abb4-4ec2-9347-47eeac07c19f>  
+
+#### Saturday Scramble: Intermediate Rotating Round Robin
+Location: Pickleball Kingdom Poulsbo  
+21800 Market Pl NW, Poulsbo, WA 98370  
+Link: <https://pickleballkingdom.podplay.app/community/events/6ff4952b-baef-4ef6-9978-4348955075be>  
 
 ## Sunday, November 30, 2025
 
