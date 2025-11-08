@@ -1,3 +1,5 @@
 # Pickleball Paddles
 
-## Gearbox
+## [Gearbox](paddle/gearbox)
+
+## [Selkirk](paddle/selkirk)
