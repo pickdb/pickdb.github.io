@@ -7,6 +7,10 @@ Location: Pickleball Kingdom Nashville South
 5035 Harding Pl, Nashville, TN 37211  
 Link: <https://pickleballkingdom.podplay.app/community/events/28f5c4e0-ea2d-4904-98a1-bf74d0bb00b1>
 
+#### Men's 8.5 COMBO MONEYBALL Tournament
+Location: DTL | Down the Line Sports Center  
+4311 Ravensworth Rd, Annandale, VA 22003  
+Link: <https://dtl.podplay.app/community/events/fa7c81d7-43a4-4f64-b6fd-33a157dced69>  
 
 
 ## Saturday, November 8, 2025
@@ -22,6 +26,11 @@ Link (DUPR 3.5-4.0): <https://pickleballkingdom.podplay.app/community/events/329
 Location: Pickleball Kingdom Nashville South
 5035 Harding Pl, Nashville, TN 37211  
 Link: <https://pickleballkingdom.podplay.app/community/events/6d5b1df5-161d-44d4-adcb-36ee042e2894>
+
+#### Veterans In Pickleball: 3rd Annual Veterans Day Tournament!
+Location: DTL | Down the Line Sports Center  
+4311 Ravensworth Rd, Annandale, VA 22003  
+Link: <https://dtl.podplay.app/community/events/4e1b538e-c30a-4532-b18f-b30d0e708c3f>  
 
 #### DUPR Round Robin Rotating Partners
 Location: Pickleball Kingdom Lynnwood  
@@ -259,6 +268,11 @@ Link: <https://pickleballkingdom.podplay.app/community/events/d0251d32-74b7-4947
 Location: Pickleball Kingdom Nashville South
 5035 Harding Pl, Nashville, TN 37211  
 Link: <https://pickleballkingdom.podplay.app/community/events/fa205e4f-9433-4a38-b825-da6d86dfcc76>  
+
+#### Women's Singles 3.5-3.9 DTL Classic 2025 Presented by Trustar Tournament
+Location: DTL | Down the Line Sports Center  
+4311 Ravensworth Rd, Annandale, VA 22003  
+Link: <https://dtl.podplay.app/community/events/57d2e654-cdde-4f73-82e0-50715950544d>  
 
 ## Saturday, January 10, 2026
 
